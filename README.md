@@ -13,5 +13,3 @@ from vufr import VUFR
 api = VUFR()
 print(api.shorten_url('https://jiroawesome.tech'))
 ````
-# vufr
-# vufr
